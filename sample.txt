@@ -1,0 +1,4 @@
+{"input": "Memorial Day 5 to 7 PM Party at Molly's House, bring food and chips"}
+{"input": "All day Wednesday 26th anniversary"}
+{"input": "26th anniversary All day this Wednesday"}
+{"input": "June 2nd Arrested Development Marathon noon to 6PM"}
