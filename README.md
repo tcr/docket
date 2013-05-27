@@ -6,7 +6,6 @@ Parse natural language sentences into calendar appointments, and more.
 
 ## TODO a lot:
 
-1. Named entity recognition instead of these hacks: <http://stackoverflow.com/questions/2587663/natural-language-parsing-of-an-appointment>
-1. More righteous NLP parsing of dates: <https://github.com/mojombo/chronic>
-1. Get rid of Python deps if possible
+1. Use Chronic and ngrams to parse out dates and ranges nicely: <https://github.com/mojombo/chronic>
+1. Get rid of Python/Ruby deps if possible (or just settle on one and make an API out of it)
 1. Extend sample.txt corpus
